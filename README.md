@@ -5,7 +5,9 @@
 by Afonso Brás Sousa
 
 </div>
-Open Microsoft Copilot while browsing with this nifty simple toolbar extension, just like Microsoft Edge.
+Open Microsoft Copilot while browsing with this nifty simple toolbar extension, just like in Microsoft Edge.
+
+This extension is Firefox-only for now. You can find many alternatives available for Chromium-based browsers (Chrome, Opera, Brave).
 
 You may also want to check out [ChatGPT Sidebar](https://github.com/abtsousa/ChatGPTSidebar).
 
